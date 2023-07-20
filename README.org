@@ -1,0 +1,9 @@
+* cl-pcg
+
+Permuted congruential generators in Common Lisp
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/sjl/cl-pcg.git |
+| commit  | 8263d85                               |
+| systems | cl-pcg                                |
+|---------+---------------------------------------|
